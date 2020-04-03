@@ -4,7 +4,7 @@ import csv, os
 path = input('\n'"Enter absolute path to directory: ")
 filenames = os.listdir(path)
 filenames.sort()
-id_count = -1
+id_count = 0
 
 # creates csv and adds desired headers
 with open('manifest.csv', 'w', newline = '') as csvfile:
