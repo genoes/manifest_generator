@@ -3,5 +3,5 @@
 ## Description
 Creates a manifest for Zooniverse project files
 
-### Installation
+### Requirements
 Python 3.x
