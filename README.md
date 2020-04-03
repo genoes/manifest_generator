@@ -1,2 +1,7 @@
 # manifest_generator
-creates a manifest for Zooniverse project files
+
+## Description
+Creates a manifest for Zooniverse project files
+
+### Installation
+Python 3.x
