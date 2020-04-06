@@ -18,4 +18,4 @@ Python 3.x
 * A csv will then be created containing a sequential list of ID numbers and file names, along with their respective column headers.
 
 ## Troubleshooting
-* If invisible file names turn up in your manifest, use Terminal to delete the file (e.g. $ rm .DS_Store).
+* If invisible file names turn up in your manifest, use Terminal to delete the file (e.g. $ rm .DS_Store). Then start the process over again.
