@@ -1,7 +1,7 @@
 import csv, os
 
 # stores file names in a list
-path = input('\n'"Enter absolute path to directory: ").strip(" ")
+path = input('\n'"Enter absolute path to directory: ").strip()
 filenames = os.listdir(path)
 filenames.sort()
 id_count = 0
